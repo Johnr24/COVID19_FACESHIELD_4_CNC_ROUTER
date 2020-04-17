@@ -7,4 +7,4 @@ Credit for the idea of 2 part design for better nesting goes to www.elsonknives.
 
 It is designed to fit a standard 80mm European 4 hole holepunch.
 
-included is the fusion 360 file and a STEP file
+included is the Fusion 360 file and a STEP file
