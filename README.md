@@ -1,3 +1,5 @@
+
+
 This is a 2 part snap-together faceshield for designed to be cut on a CNC router
 
 Two parts increases yield when cutting from a sheet.
@@ -15,5 +17,4 @@ included is the Fusion 360 file and a STEP file
 
 Here is a Cad Drawing that shows how mutiplesheilds could be aranged to maximise yield on a sheet. 
 
-![Nesting Diagram][raw/2020-04-18 11_22_24-Window.png]
-
+! [Nesting Diagram](https://github.com/Johnr24/COVID19_FACESHIELD_4_CNC_ROUTER/blob/master/raw/2020-04-18%2011_22_24-Window.png)
