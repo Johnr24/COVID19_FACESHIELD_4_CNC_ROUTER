@@ -13,7 +13,5 @@ Credit for the idea of 2 part design for better nesting goes to www.elsonknives.
 
 It is designed to fit a standard 80mm European 4 hole holepunch.
 
-included is the Fusion 360 file and a STEP file
-
-
+included is the .F3D file which will open in Autodesk Fusion 360 (downloadable from autodesk's website) and also a STEP file which should open in most common cam software
 
